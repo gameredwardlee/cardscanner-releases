@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apkUrl": "https://raw.githubusercontent.com/gameredwardlee/cardscanner-releases/main/CardScanner.apk",
-  "sha256": "f7024440d6db8cde2e0189a1dfe5f52be3e005308319b01ce299506f3d7de09d",
-  "notes": "繁體中文改用雲端高精度辨識（需在設定填入金鑰）、簡體字自動轉繁體、App 內自動檢查更新"
+  "sha256": "b38d41ffba9abf5ad8ffeede43d742ea307510b14820cddd813b4a7e424c70f7",
+  "notes": "離線繁體辨識改善（錯字約減少 30%、地址字典校正、低信心欄位提示）、安全性強化。※ 此版更換了簽章金鑰：請先解除安裝舊版，再下載安裝本版（之後即可自動更新）。"
 }
